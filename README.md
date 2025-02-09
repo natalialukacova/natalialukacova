@@ -28,4 +28,3 @@ I'm Natália Lukáčová – a Computer Science student at Erhvervsakademi SydVe
 ### 📈 GitHub Stats:
 ![Natalia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=natalialukacova&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=natalialukacova&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natalialukacova&layout=compact&theme=radical)
